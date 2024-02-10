@@ -1,2 +1,2 @@
 # Expressjs
-simple project using express Js
+simple Dice project using express Js
