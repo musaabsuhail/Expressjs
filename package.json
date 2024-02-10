@@ -1,0 +1,14 @@
+{
+  "name": "diceproject",
+  "version": "1.0.0",
+  "description": "Project on dice roll using expressjs",
+  "main": "server1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Musaab",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
